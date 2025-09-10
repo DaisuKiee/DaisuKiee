@@ -18,7 +18,7 @@ Hey there! I'm DaisuKiee, a passionate full-stack developer who loves to create 
 - 💼 Freelance-ready: Open to collaborations, freelance projects, and remote opportunities
 - 🏆 Mission: Creating innovative and impactful web solutions
 - 🎮 Beyond coding: I enjoy gaming, exploring new tech, and spending time with friends
-- 📫 Let’s connect: daisukiee@gmail.com
+- 📫 Let’s connect: vincentbernaberomeo@gmail.com
 
 ---
 
@@ -32,6 +32,9 @@ Hey there! I'm DaisuKiee, a passionate full-stack developer who loves to create 
 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ---
 
