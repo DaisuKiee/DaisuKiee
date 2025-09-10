@@ -1,6 +1,6 @@
-![Banner]([https://your-banner-image-url.com/banner.png](https://media.discordapp.net/attachments/936614235595763724/1415339077468815401/Black_and_Yellow_Web_Developer_LinkedIn_Banner_1.png?ex=68c2d8bb&is=68c1873b&hm=507e93464a0904f9d80fa52b2760db4c1097948f3b3fc10d84e5fbcb0f8cc54e&=&format=webp&quality=lossless&width=1860&height=465))
+![Banner](https://media.discordapp.net/attachments/936614235595763724/1415339077468815401/Black_and_Yellow_Web_Developer_LinkedIn_Banner_1.png?ex=68c2d8bb&is=68c1873b&hm=507e93464a0904f9d80fa52b2760db4c1097948f3b3fc10d84e5fbcb0f8cc54e&=&format=webp&quality=lossless&width=1860&height=465)
 
-# 👋 Hi, I'm Vincent Bernabe Romeo (DaisuKie/Diasu)
+# 👋 Hi, I'm Vincent Bernabe Romeo (DaisuKie/Daisu)
 
 ---
 
