@@ -86,25 +86,22 @@ Hey there! I'm DaisuKiee, a passionate full-stack developer who loves to create 
 
 ## 🌐 Let's Connect!
 
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:daisukiee@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](#)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](#)
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white)](#)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white)](#)
-[![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](#)
-[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](#)
-[![TikTok](https://img.shields.io/badge/-TikTok-010101?style=flat&logo=tiktok&logoColor=white)](#)
-[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vincentbernaberomeo@gmail.com)
+[![daisukie_.](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-romeo-11abba383/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/calnboss)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/daisukiei/)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/codewithdaisukie)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/Vincent-Romeo)
+[![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/DaisuKiee)
+[![TikTok](https://img.shields.io/badge/-TikTok-010101?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@daisukiiee?is_from_webapp=1&sender_device=pc)
 
 ---
 
 ## ☕ Support My Work
 
 If you like what I do and want to support my journey, consider buying me a coffee!  
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/daisukie)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vincentberh?new=1)
 
 ---
 
