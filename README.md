@@ -1,4 +1,4 @@
-![Banner](https://your-banner-image-url.com/banner.png)
+![Banner]([https://your-banner-image-url.com/banner.png](https://media.discordapp.net/attachments/936614235595763724/1415339077468815401/Black_and_Yellow_Web_Developer_LinkedIn_Banner_1.png?ex=68c2d8bb&is=68c1873b&hm=507e93464a0904f9d80fa52b2760db4c1097948f3b3fc10d84e5fbcb0f8cc54e&=&format=webp&quality=lossless&width=1860&height=465))
 
 # 👋 Hi, I'm Vincent Bernabe Romeo (DaisuKie/Diasu)
 
@@ -43,8 +43,6 @@ Hey there! I'm DaisuKiee, a passionate full-stack developer who loves to create 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ---
 
@@ -61,8 +59,6 @@ Hey there! I'm DaisuKiee, a passionate full-stack developer who loves to create 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 
 ---
 
@@ -105,9 +101,7 @@ Hey there! I'm DaisuKiee, a passionate full-stack developer who loves to create 
 ## ☕ Support My Work
 
 If you like what I do and want to support my journey, consider buying me a coffee!  
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-[![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/yourusername)
-[![Ko-fi](https://img.shields.io/badge/-Ko--fi-29ABE0?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/yourusername)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/daisukie)
 
 ---
 
