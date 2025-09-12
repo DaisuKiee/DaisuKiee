@@ -1,108 +1,138 @@
-![Banner](https://media.discordapp.net/attachments/936614235595763724/1415339077468815401/Black_and_Yellow_Web_Developer_LinkedIn_Banner_1.png?ex=68c2d8bb&is=68c1873b&hm=507e93464a0904f9d80fa52b2760db4c1097948f3b3fc10d84e5fbcb0f8cc54e&=&format=webp&quality=lossless&width=1860&height=465)
+# README.md
 
-# 👋 Hi, I'm Vincent Bernabe Romeo (DaisuKie/Daisu)
+<div align="center">
 
----
+# 🚀 Vincent "DaisuKie" Romeo
 
-## 🧑‍💻 Full-Stack Developer | 🚀 Gamer | 🌏 Tech Enthusiast
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DaisuKiee&color=brightgreen)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Full-Stack+Developer+%7C+Problem+Solver;Transforming+Ideas+into+Digital+Reality;Always+Learning%2C+Always+Building" alt="Typing Animation" />
+</div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
+</div>
 
-## 📝 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About The Developer**
 
-Hey there! I'm DaisuKiee, a passionate full-stack developer who loves to create digital experiences and solve real-world problems with code.
+```typescript
+const DaisuKie = {
+    name: "Vincent Bernabe Romeo",
+    alias: ["DaisuKie", "Daisu"],
+    location: "Philippines 🇵🇭",
+    currentFocus: "Full-Stack Development",
+    mission: "Building the future, one commit at a time",
+    
+    workingOn: {
+        frontend: ["React", "Vue.js", "TypeScript"],
+        backend: ["Node.js", "Express", "PHP"],
+        exploring: ["Go", "Python", "Cloud Architecture"]
+    },
+    
+    lifePhilosophy: "Code with passion, learn with curiosity",
+    funFact: "I debug with console.log and I'm not ashamed! 🐛"
+};
+```
 
-- 🎯 Currently mastering: Full-Stack Development (Front-End & Back-End)
-- 💼 Freelance-ready: Open to collaborations, freelance projects, and remote opportunities
-- 🏆 Mission: Creating innovative and impactful web solutions
-- 🎮 Beyond coding: I enjoy gaming, exploring new tech, and spending time with friends
-- 📫 Let’s connect: vincentbernaberomeo@gmail.com
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Tech Arsenal**
 
----
-
-## 🧑‍💻 Languages
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
----
-
-## ⚙️ Frameworks & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-
----
-
-## ☁️ Cloud & Hosting
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-
----
-
-## 🗄️ Database & Design
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DaisuKiee&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" height="180" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaisuKiee&layout=compact&theme=github_dark" alt="Top Languages" height="180" />
-    </td>
-  </tr>
-</table>
-
+<details>
+<summary><b>🎨 Frontend Universe</b></summary>
+<br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaisuKiee&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,sass,tailwind&theme=dark" />
 </p>
+</details>
+
+<details>
+<summary><b>⚙️ Backend Galaxy</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python,go,c,cpp,cs&theme=dark" />
+</p>
+</details>
+
+<details>
+<summary><b>🗄️ Database Dimension</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&theme=dark" />
+</p>
+</details>
+
+<details>
+<summary><b>☁️ Cloud Cosmos</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,netlify,vercel,cloudflare&theme=dark" />
+</p>
+</details>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> **GitHub Metrics Dashboard**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaisuKiee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaisuKiee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaisuKiee&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaisuKiee&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Professional Network**
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vincentbernaberomeo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-romeo-11abba383/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/daisukie_.)
+
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/codewithdaisukie)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Vincent-Romeo)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/DaisuKiee)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daisukiei/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@daisukiiee?is_from_webapp=1&sender_device=pc)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/calnboss)
+
+</div>
+
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> **Current Mission Status**
+
+```yaml
+Mission: Building innovative web solutions
+Status: Active Development Mode 🟢
+Availability: Open for collaborations
+Learning: Advanced Cloud Architecture
+Next Goal: Contributing to open-source projects
+Coffee Level: ████████░░ 80% ☕
+```
+
+## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"> **Support The Journey**
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vincentberh?new=1)
+
+*"Every cup of coffee fuels another line of code! ☕→💻"*
+
+</div>
 
 ---
 
-## 🌐 Let's Connect!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=FFFFFF&animation=twinkling" width="100%" />
+</div>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vincentbernaberomeo@gmail.com)
-[![daisukie_.](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-romeo-11abba383/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/calnboss)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/daisukiei/)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/codewithdaisukie)
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/Vincent-Romeo)
-[![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/DaisuKiee)
-[![TikTok](https://img.shields.io/badge/-TikTok-010101?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@daisukiiee?is_from_webapp=1&sender_device=pc)
+<div align="center">
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=DaisuKiee&color=00D9FF&style=for-the-badge)
 
-## ☕ Support My Work
+**"Code is poetry written in logic"** ✨
 
-If you like what I do and want to support my journey, consider buying me a coffee!  
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vincentberh?new=1)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+</div>
